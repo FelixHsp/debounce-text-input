@@ -13,7 +13,7 @@ interface IMyTextInput {
   [textInputProps: string]: any;
 };
 
-const MyTextInput = (props: IMyTextInput) => {
+const DebounceTextInput = (props: IMyTextInput) => {
   const {
     value,
     defaultValue,
@@ -43,7 +43,7 @@ const MyTextInput = (props: IMyTextInput) => {
 
   return (
     <Fragment>
-      <TextInput key={`${key}_${inputKey}`}
+      <TextInput key={`${key ? `${key}_${inputKey}` : inputKey}`}
                  defaultValue={inputValue}
                  onInput={(e: TextInputElement) => {
                    setInputValue(e.value);
@@ -54,4 +54,4 @@ const MyTextInput = (props: IMyTextInput) => {
   );
 };
 
-export default MyTextInput;
+export default DebounceTextInput;
