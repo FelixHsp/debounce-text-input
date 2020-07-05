@@ -1,7 +1,7 @@
 import { useRef, useEffect } from 'rax';
-import { TextInputElement } from 'rax-textinput/lib/types';
+import { EventObject } from 'rax-textinput/lib/types';
 
-function useDebounce(fn: (e: TextInputElement) => void, delay: number) {
+function useDebounce(fn: (e: EventObject) => void, delay: number) {
   const ref = useRef({
     fn,
     timer: null
