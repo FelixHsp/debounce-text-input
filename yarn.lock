@@ -6503,9 +6503,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.3, lodash@^4.17.5:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 loglevel@^1.6.8:
   version "1.6.8"
@@ -8627,13 +8627,6 @@ rax-test-renderer@^1.0.0:
   resolved "https://registry.yarnpkg.com/rax-test-renderer/-/rax-test-renderer-1.0.0.tgz#13b7d680557db20539d216e3a0bb397ab210beb6"
   integrity sha512-4k0WFgueaZsGsGE1OJoKMQCVXIGN7lGKwSM29GU6f7X/YPvZ33pSCFOyr+TFFjs7YUO4GfVX1at0Hoo3E2mrog==
 
-rax-text@^1.0.0:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/rax-text/-/rax-text-1.3.1.tgz#e91ca62253f2f1fbb44f49548627fffb8d809340"
-  integrity sha512-BQ2ZC6jEa7WnGm+ZsiwGvMFD7yEvpvHq3qljJRqJwtYewJsimZ2KZ+d66EWwvSgfXGGtss1DJmqCUBRFHsFnxw==
-  dependencies:
-    universal-env "^3.0.0"
-
 rax-textinput@^1.3.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/rax-textinput/-/rax-textinput-1.3.1.tgz#7ed713cd0ba10c8c3d38cd4f113d06679db3827f"
@@ -8643,14 +8636,6 @@ rax-textinput@^1.3.1:
     classnames "^2.2.6"
     rax-set-native-props "^1.0.0"
     universal-env "^3.2.0"
-
-rax-view@^1.0.0:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/rax-view/-/rax-view-1.1.2.tgz#3fb43a007ab1a0fbc14c633a2aaf46f16adede5a"
-  integrity sha512-HYUDcOMcJ1uVfa5ITXDlJNyjT7ivQkJstlrUXC9agmFPh8HFk6ZRLtJilgMPFO4FXK7vmcA83UKTfmfCcFIUQw==
-  dependencies:
-    classnames "^2.2.6"
-    universal-env "^3.0.0"
 
 rax@^1.1.0:
   version "1.1.3"
