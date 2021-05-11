@@ -4885,9 +4885,9 @@ homedir-polyfill@^1.0.1:
     parse-passwd "^1.0.0"
 
 hosted-git-info@^2.1.4:
-  version "2.8.8"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
-  integrity sha512-f/wzC2QaWBs7t9IYqB4T3sR1xviIViXJRJTWBlx2Gf3g0Xi5vI7Yy4koXQ1c9OYDGHN9sBy1DQ2AB8fqZBWhUg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -8627,13 +8627,6 @@ rax-test-renderer@^1.0.0:
   resolved "https://registry.yarnpkg.com/rax-test-renderer/-/rax-test-renderer-1.0.0.tgz#13b7d680557db20539d216e3a0bb397ab210beb6"
   integrity sha512-4k0WFgueaZsGsGE1OJoKMQCVXIGN7lGKwSM29GU6f7X/YPvZ33pSCFOyr+TFFjs7YUO4GfVX1at0Hoo3E2mrog==
 
-rax-text@^1.0.0:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/rax-text/-/rax-text-1.3.1.tgz#e91ca62253f2f1fbb44f49548627fffb8d809340"
-  integrity sha512-BQ2ZC6jEa7WnGm+ZsiwGvMFD7yEvpvHq3qljJRqJwtYewJsimZ2KZ+d66EWwvSgfXGGtss1DJmqCUBRFHsFnxw==
-  dependencies:
-    universal-env "^3.0.0"
-
 rax-textinput@^1.3.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/rax-textinput/-/rax-textinput-1.3.1.tgz#7ed713cd0ba10c8c3d38cd4f113d06679db3827f"
@@ -8643,14 +8636,6 @@ rax-textinput@^1.3.1:
     classnames "^2.2.6"
     rax-set-native-props "^1.0.0"
     universal-env "^3.2.0"
-
-rax-view@^1.0.0:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/rax-view/-/rax-view-1.1.2.tgz#3fb43a007ab1a0fbc14c633a2aaf46f16adede5a"
-  integrity sha512-HYUDcOMcJ1uVfa5ITXDlJNyjT7ivQkJstlrUXC9agmFPh8HFk6ZRLtJilgMPFO4FXK7vmcA83UKTfmfCcFIUQw==
-  dependencies:
-    classnames "^2.2.6"
-    universal-env "^3.0.0"
 
 rax@^1.1.0:
   version "1.1.3"
