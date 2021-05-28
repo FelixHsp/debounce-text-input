@@ -3594,9 +3594,9 @@ dns-equal@^1.0.0:
   integrity sha1-s55/HabrCnW6nBcySzR1PEfgZU0=
 
 dns-packet@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/dns-packet/-/dns-packet-1.3.1.tgz#12aa426981075be500b910eedcd0b47dd7deda5a"
-  integrity sha512-0UxfQkMhYAUaZI+xrNZOz/as5KgDU0M/fQ9b6SpkyLbk3GEswDi6PADJVaYJradtRVsRIlF1zLyOodbcTCDzUg==
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/dns-packet/-/dns-packet-1.3.4.tgz#e3455065824a2507ba886c55a89963bb107dec6f"
+  integrity sha512-BQ6F4vycLXBvdrJZ6S3gZewt6rcrks9KBgM9vrhW+knGRqc8uEdT7fuCwloc7nny5xNoMJ17HGH0R/6fpo8ECA==
   dependencies:
     ip "^1.1.0"
     safe-buffer "^5.0.1"
@@ -8627,13 +8627,6 @@ rax-test-renderer@^1.0.0:
   resolved "https://registry.yarnpkg.com/rax-test-renderer/-/rax-test-renderer-1.0.0.tgz#13b7d680557db20539d216e3a0bb397ab210beb6"
   integrity sha512-4k0WFgueaZsGsGE1OJoKMQCVXIGN7lGKwSM29GU6f7X/YPvZ33pSCFOyr+TFFjs7YUO4GfVX1at0Hoo3E2mrog==
 
-rax-text@^1.0.0:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/rax-text/-/rax-text-1.3.1.tgz#e91ca62253f2f1fbb44f49548627fffb8d809340"
-  integrity sha512-BQ2ZC6jEa7WnGm+ZsiwGvMFD7yEvpvHq3qljJRqJwtYewJsimZ2KZ+d66EWwvSgfXGGtss1DJmqCUBRFHsFnxw==
-  dependencies:
-    universal-env "^3.0.0"
-
 rax-textinput@^1.3.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/rax-textinput/-/rax-textinput-1.3.1.tgz#7ed713cd0ba10c8c3d38cd4f113d06679db3827f"
@@ -8643,14 +8636,6 @@ rax-textinput@^1.3.1:
     classnames "^2.2.6"
     rax-set-native-props "^1.0.0"
     universal-env "^3.2.0"
-
-rax-view@^1.0.0:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/rax-view/-/rax-view-1.1.2.tgz#3fb43a007ab1a0fbc14c633a2aaf46f16adede5a"
-  integrity sha512-HYUDcOMcJ1uVfa5ITXDlJNyjT7ivQkJstlrUXC9agmFPh8HFk6ZRLtJilgMPFO4FXK7vmcA83UKTfmfCcFIUQw==
-  dependencies:
-    classnames "^2.2.6"
-    universal-env "^3.0.0"
 
 rax@^1.1.0:
   version "1.1.3"
