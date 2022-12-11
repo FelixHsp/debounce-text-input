@@ -8459,9 +8459,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
@@ -8627,13 +8627,6 @@ rax-test-renderer@^1.0.0:
   resolved "https://registry.yarnpkg.com/rax-test-renderer/-/rax-test-renderer-1.0.0.tgz#13b7d680557db20539d216e3a0bb397ab210beb6"
   integrity sha512-4k0WFgueaZsGsGE1OJoKMQCVXIGN7lGKwSM29GU6f7X/YPvZ33pSCFOyr+TFFjs7YUO4GfVX1at0Hoo3E2mrog==
 
-rax-text@^1.0.0:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/rax-text/-/rax-text-1.3.1.tgz#e91ca62253f2f1fbb44f49548627fffb8d809340"
-  integrity sha512-BQ2ZC6jEa7WnGm+ZsiwGvMFD7yEvpvHq3qljJRqJwtYewJsimZ2KZ+d66EWwvSgfXGGtss1DJmqCUBRFHsFnxw==
-  dependencies:
-    universal-env "^3.0.0"
-
 rax-textinput@^1.3.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/rax-textinput/-/rax-textinput-1.3.1.tgz#7ed713cd0ba10c8c3d38cd4f113d06679db3827f"
@@ -8643,14 +8636,6 @@ rax-textinput@^1.3.1:
     classnames "^2.2.6"
     rax-set-native-props "^1.0.0"
     universal-env "^3.2.0"
-
-rax-view@^1.0.0:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/rax-view/-/rax-view-1.1.2.tgz#3fb43a007ab1a0fbc14c633a2aaf46f16adede5a"
-  integrity sha512-HYUDcOMcJ1uVfa5ITXDlJNyjT7ivQkJstlrUXC9agmFPh8HFk6ZRLtJilgMPFO4FXK7vmcA83UKTfmfCcFIUQw==
-  dependencies:
-    classnames "^2.2.6"
-    universal-env "^3.0.0"
 
 rax@^1.1.0:
   version "1.1.3"
